@@ -13,7 +13,7 @@ while row_index < src.count do
     element_index += 1
   end
 
-  outer_results << min_in_nested_arrays
+  outer_results << min_value
   row_index += 1
 end
 
